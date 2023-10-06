@@ -1,0 +1,2 @@
+# GDSC
+hacktober repo
